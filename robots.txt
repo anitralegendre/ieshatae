@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shohphoow.domainelalegende.com/sitemap.xml
